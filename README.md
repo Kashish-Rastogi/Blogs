@@ -1,4 +1,4 @@
-I write technical blogs about analysis and visualization. These blogs are originally published at [Medium](https://kashishrastogi2000.medium.com/) and [Analytics vidhya](https://www.analyticsvidhya.com/blog/author/kashish1/)  
+I write technical blogs realted to Data Science Field. These blogs are originally published at [Medium](https://kashishrastogi2000.medium.com/) and [Analytics vidhya](https://www.analyticsvidhya.com/blog/author/kashish1/)  
 
 ## Blogs link for data visualization:
 * Tricks for Data visualization using Plotly Library: [link](https://www.analyticsvidhya.com/blog/2021/06/tricks-for-data-visualization-plotly-library/)
